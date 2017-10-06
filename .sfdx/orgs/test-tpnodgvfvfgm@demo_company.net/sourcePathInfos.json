@@ -2,14 +2,14 @@
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1507126504238,
             "changeTime": 1507126504238,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1507126504238,
             "changeTime": 1507126504238,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,27 +32,27 @@
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1507276605083,
             "changeTime": 1507276605083,
-            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1507126504239,
             "changeTime": 1507126504239,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1507126562742,
             "changeTime": 1507126562742,
             "contentHash": "eef8e0288540e5ff6a0806fc838111d9b78f2a4f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,807 +75,989 @@
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3738,
             "modifiedTime": 1507276604727,
             "changeTime": 1507276604727,
-            "contentHash": "b377025363d7706339248d20aa32ea41a11a517f"
+            "contentHash": "b377025363d7706339248d20aa32ea41a11a517f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 202,
             "modifiedTime": 1507276604736,
             "changeTime": 1507276604736,
-            "contentHash": "2485668a3437d5add365adc6395699585c0ec6d0"
+            "contentHash": "2485668a3437d5add365adc6395699585c0ec6d0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1507276604741,
             "changeTime": 1507276604741,
-            "contentHash": "1dee20ac58a40482934d035192fe7a98db6d9a81"
+            "contentHash": "1dee20ac58a40482934d035192fe7a98db6d9a81",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Active__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Active__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 755,
             "modifiedTime": 1507276604748,
             "changeTime": 1507276604748,
-            "contentHash": "bb6c857aba566d5a867fc8eb2ef33701feaa136e"
+            "contentHash": "bb6c857aba566d5a867fc8eb2ef33701feaa136e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 202,
             "modifiedTime": 1507276604753,
             "changeTime": 1507276604753,
-            "contentHash": "428d667e4a7e884d30e9f297f975d2a6484dc2cd"
+            "contentHash": "428d667e4a7e884d30e9f297f975d2a6484dc2cd",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 203,
             "modifiedTime": 1507276604758,
             "changeTime": 1507276604758,
-            "contentHash": "780b69fd147e2be6a8e2388d7c4336e215f67586"
+            "contentHash": "780b69fd147e2be6a8e2388d7c4336e215f67586",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 200,
             "modifiedTime": 1507276604762,
             "changeTime": 1507276604762,
-            "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb"
+            "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\CustomerPriority__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\CustomerPriority__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 944,
             "modifiedTime": 1507276604769,
             "changeTime": 1507276604769,
-            "contentHash": "29a1e5d3eeaa43c310327c323fc51bac55de247a"
+            "contentHash": "29a1e5d3eeaa43c310327c323fc51bac55de247a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 227,
             "modifiedTime": 1507276604777,
             "changeTime": 1507276604777,
-            "contentHash": "c36e183fef5796b39d7f2abad313817f99c74127"
+            "contentHash": "c36e183fef5796b39d7f2abad313817f99c74127",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 200,
             "modifiedTime": 1507276604786,
             "changeTime": 1507276604786,
-            "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92"
+            "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 199,
             "modifiedTime": 1507276604793,
             "changeTime": 1507276604793,
-            "contentHash": "b9eafa97bfa4f532b3645d306161068341cd99dd"
+            "contentHash": "b9eafa97bfa4f532b3645d306161068341cd99dd",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 192,
             "modifiedTime": 1507276604797,
             "changeTime": 1507276604797,
-            "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f"
+            "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1507276604803,
             "changeTime": 1507276604803,
-            "contentHash": "6f0a5236c2130d964cc6b9654fd5f11e512dca47"
+            "contentHash": "6f0a5236c2130d964cc6b9654fd5f11e512dca47",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1507276604809,
             "changeTime": 1507276604809,
-            "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974"
+            "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1507276604814,
             "changeTime": 1507276604814,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 198,
             "modifiedTime": 1507276604819,
             "changeTime": 1507276604819,
-            "contentHash": "1cf643f5c1633de90169cdb7628f965ac9d927f3"
+            "contentHash": "1cf643f5c1633de90169cdb7628f965ac9d927f3",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 198,
             "modifiedTime": 1507276604823,
             "changeTime": 1507276604823,
-            "contentHash": "5f0f4a91707a74fee313ea9dbc09659724dfd2f0"
+            "contentHash": "5f0f4a91707a74fee313ea9dbc09659724dfd2f0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 192,
             "modifiedTime": 1507276604829,
             "changeTime": 1507276604829,
-            "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9"
+            "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 206,
             "modifiedTime": 1507276604836,
             "changeTime": 1507276604836,
-            "contentHash": "9d2f6c78b600962d19202740171268557046a498"
+            "contentHash": "9d2f6c78b600962d19202740171268557046a498",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\NumberofLocations__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\NumberofLocations__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 415,
             "modifiedTime": 1507276604842,
             "changeTime": 1507276604842,
-            "contentHash": "eb38892ccd65bc69d70897b8069ae5e433b2df8b"
+            "contentHash": "eb38892ccd65bc69d70897b8069ae5e433b2df8b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 229,
             "modifiedTime": 1507276604847,
             "changeTime": 1507276604847,
-            "contentHash": "e05e34427505b15fb131b564768c9199ddf39c9e"
+            "contentHash": "e05e34427505b15fb131b564768c9199ddf39c9e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 219,
             "modifiedTime": 1507276604851,
             "changeTime": 1507276604851,
-            "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798"
+            "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 224,
             "modifiedTime": 1507276604855,
             "changeTime": 1507276604855,
-            "contentHash": "d84c9b729263e5159ea9a88550f4941bde5aa50e"
+            "contentHash": "d84c9b729263e5159ea9a88550f4941bde5aa50e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 224,
             "modifiedTime": 1507276604860,
             "changeTime": 1507276604860,
-            "contentHash": "a189aa9e1c94d29eb1f90c9544bfbd668be25cff"
+            "contentHash": "a189aa9e1c94d29eb1f90c9544bfbd668be25cff",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 194,
             "modifiedTime": 1507276604865,
             "changeTime": 1507276604865,
-            "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487"
+            "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 221,
             "modifiedTime": 1507276604869,
             "changeTime": 1507276604869,
-            "contentHash": "a8224eb175152b9deed680b818cbffd218dd5e3f"
+            "contentHash": "a8224eb175152b9deed680b818cbffd218dd5e3f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 204,
             "modifiedTime": 1507276604888,
             "changeTime": 1507276604888,
-            "contentHash": "c30026606731cd625b5d0b4e8e529a2418ef1ee6"
+            "contentHash": "c30026606731cd625b5d0b4e8e529a2418ef1ee6",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 192,
             "modifiedTime": 1507276604893,
             "changeTime": 1507276604893,
-            "contentHash": "33262a22c31dbefac748023c3a6c018d743d3161"
+            "contentHash": "33262a22c31dbefac748023c3a6c018d743d3161",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1507276604898,
             "changeTime": 1507276604898,
-            "contentHash": "bc19f903ec1384e12d7dd7bc9ffa88580a091422"
+            "contentHash": "bc19f903ec1384e12d7dd7bc9ffa88580a091422",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 193,
             "modifiedTime": 1507276604902,
             "changeTime": 1507276604902,
-            "contentHash": "0f2240d03c79c58a0992338cd2a62f8aa201a0a7"
+            "contentHash": "0f2240d03c79c58a0992338cd2a62f8aa201a0a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\SLAExpirationDate__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\SLAExpirationDate__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 336,
             "modifiedTime": 1507276604874,
             "changeTime": 1507276604874,
-            "contentHash": "f8f81ab4cce6d2e54a1ddcf948fd72509610680c"
+            "contentHash": "f8f81ab4cce6d2e54a1ddcf948fd72509610680c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\SLASerialNumber__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\SLASerialNumber__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 383,
             "modifiedTime": 1507276604878,
             "changeTime": 1507276604878,
-            "contentHash": "865775b6cbae076f26e1ceaa271e96db30ba700f"
+            "contentHash": "865775b6cbae076f26e1ceaa271e96db30ba700f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\SLA__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\SLA__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1091,
             "modifiedTime": 1507276604883,
             "changeTime": 1507276604883,
-            "contentHash": "045ca616a8bfca7f2f8c3e089838b1b40d376c11"
+            "contentHash": "045ca616a8bfca7f2f8c3e089838b1b40d376c11",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 201,
             "modifiedTime": 1507276604906,
             "changeTime": 1507276604906,
-            "contentHash": "9d08b4f2d44e5bd6161a034a999f2fd3f8179f49"
+            "contentHash": "9d08b4f2d44e5bd6161a034a999f2fd3f8179f49",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 199,
             "modifiedTime": 1507276604910,
             "changeTime": 1507276604910,
-            "contentHash": "61dbe3cf77a2129e24ff09777f38f47e6ccb1297"
+            "contentHash": "61dbe3cf77a2129e24ff09777f38f47e6ccb1297",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 219,
             "modifiedTime": 1507276604914,
             "changeTime": 1507276604914,
-            "contentHash": "3467b15d43e2f23e3287cad8cd0622c58b3fdc61"
+            "contentHash": "3467b15d43e2f23e3287cad8cd0622c58b3fdc61",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\UpsellOpportunity__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\UpsellOpportunity__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 940,
             "modifiedTime": 1507276604921,
             "changeTime": 1507276604921,
-            "contentHash": "6cb0cb263777ce3dfdd3be11036a77e8a019da78"
+            "contentHash": "6cb0cb263777ce3dfdd3be11036a77e8a019da78",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1507276604927,
             "changeTime": 1507276604927,
-            "contentHash": "38590f00b03c4be8e4116dff68bdeaf0d829bfea"
+            "contentHash": "38590f00b03c4be8e4116dff68bdeaf0d829bfea",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 200,
             "modifiedTime": 1507276604932,
             "changeTime": 1507276604932,
-            "contentHash": "797d4a2003a4dc2b7d0b5a3114a8afef7440ccfb"
+            "contentHash": "797d4a2003a4dc2b7d0b5a3114a8afef7440ccfb",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\webLinks\\Billing.webLink-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\webLinks\\Billing.webLink-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 747,
             "modifiedTime": 1507276604962,
             "changeTime": 1507276604962,
-            "contentHash": "ae9648d035d739cc9d6410b71a5fb48123e6463f"
+            "contentHash": "ae9648d035d739cc9d6410b71a5fb48123e6463f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews\\AllAccounts.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews\\AllAccounts.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 221,
             "modifiedTime": 1507276604938,
             "changeTime": 1507276604938,
-            "contentHash": "4cd86db581f52363b344a7c71d5e7b0cd2b53ac9"
+            "contentHash": "4cd86db581f52363b344a7c71d5e7b0cd2b53ac9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews\\MyAccounts.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews\\MyAccounts.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 213,
             "modifiedTime": 1507276604942,
             "changeTime": 1507276604942,
-            "contentHash": "78397d265f930d78ba4b80939c185d843ca0159d"
+            "contentHash": "78397d265f930d78ba4b80939c185d843ca0159d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews\\NewLastWeek.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews\\NewLastWeek.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1507276604947,
             "changeTime": 1507276604947,
-            "contentHash": "9bc2732ea281e6a67366c1baf323a5da873ce01a"
+            "contentHash": "9bc2732ea281e6a67366c1baf323a5da873ce01a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews\\NewThisWeek.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews\\NewThisWeek.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1507276604952,
             "changeTime": 1507276604952,
-            "contentHash": "52e53fa2623bfc1b6db9c16f1a27f903fc19fcfa"
+            "contentHash": "52e53fa2623bfc1b6db9c16f1a27f903fc19fcfa",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews\\PlatinumandGoldSLACustomers.listView-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews\\PlatinumandGoldSLACustomers.listView-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 452,
             "modifiedTime": 1507276604956,
             "changeTime": 1507276604956,
-            "contentHash": "5f6812369bed74a878f8accbc8424a16ea3d22b5"
+            "contentHash": "5f6812369bed74a878f8accbc8424a16ea3d22b5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10757,
             "modifiedTime": 1507276604978,
             "changeTime": 1507276604978,
-            "contentHash": "fd1ca92b9cb461978873813339e3fd5cbd82ee7f"
+            "contentHash": "fd1ca92b9cb461978873813339e3fd5cbd82ee7f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10757,
             "modifiedTime": 1507276604993,
             "changeTime": 1507276604993,
-            "contentHash": "66660b8152a7b5e24e24fce057695fe5c89f630b"
+            "contentHash": "66660b8152a7b5e24e24fce057695fe5c89f630b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10773,
             "modifiedTime": 1507276605007,
             "changeTime": 1507276605007,
-            "contentHash": "f109e39e243acebb54dcca9a9f076097b06917b8"
+            "contentHash": "f109e39e243acebb54dcca9a9f076097b06917b8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10769,
             "modifiedTime": 1507276605021,
             "changeTime": 1507276605021,
-            "contentHash": "a6f7c45913576b81142ea7f2bd66538639f75fa1"
+            "contentHash": "a6f7c45913576b81142ea7f2bd66538639f75fa1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10136,
             "modifiedTime": 1507276605036,
             "changeTime": 1507276605036,
-            "contentHash": "5d37e7ec4d49f2782cdc5ee0cb693e27ad2140ec"
+            "contentHash": "5d37e7ec4d49f2782cdc5ee0cb693e27ad2140ec",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10476,
             "modifiedTime": 1507276605051,
             "changeTime": 1507276605051,
-            "contentHash": "b7eb0e8944a3429ae106b5751e08dce4b00e23ed"
+            "contentHash": "b7eb0e8944a3429ae106b5751e08dce4b00e23ed",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 22710,
             "modifiedTime": 1507276605064,
             "changeTime": 1507276605064,
-            "contentHash": "f993ec13ca1905f7df2b1c6e119a657cfecd538f"
+            "contentHash": "f993ec13ca1905f7df2b1c6e119a657cfecd538f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10140,
             "modifiedTime": 1507276605078,
             "changeTime": 1507276605078,
-            "contentHash": "6f2c71cbf02851393eb071c385354953a88b5db0"
+            "contentHash": "6f2c71cbf02851393eb071c385354953a88b5db0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\permissionsets\\Location.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\permissionsets\\Location.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6292,
             "modifiedTime": 1507276605091,
             "changeTime": 1507276605091,
-            "contentHash": "25702cc245b8f54021e6547b63ee00ff356f4664"
+            "contentHash": "25702cc245b8f54021e6547b63ee00ff356f4664",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1507276604960,
             "changeTime": 1507276604960,
-            "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d"
+            "contentHash": "a6f710139621de89cd48359ea1d0eacf0446d23d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1507276604722,
             "changeTime": 1507276604722,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1507276604931,
             "changeTime": 1507276604931,
-            "contentHash": "39f1b51dc07f7fe7bc7920ea68dd94d5cdba775b"
+            "contentHash": "39f1b51dc07f7fe7bc7920ea68dd94d5cdba775b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\webLinks",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\webLinks",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1507276604961,
             "changeTime": 1507276604961,
-            "contentHash": "0caec06144c909e4216d06654080dee841554608"
+            "contentHash": "0caec06144c909e4216d06654080dee841554608",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\objects\\Account\\listViews",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1507276604956,
             "changeTime": 1507276604956,
-            "contentHash": "4da31241ac7f1110b1a5f076f08147c835ab3e05"
+            "contentHash": "4da31241ac7f1110b1a5f076f08147c835ab3e05",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1507276605020,
             "changeTime": 1507276605020,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1507276605078,
             "changeTime": 1507276605078,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1507276605090,
             "changeTime": 1507276605090,
-            "contentHash": "84720236dcb3f8f3cb1ac9735191a68836052477"
+            "contentHash": "84720236dcb3f8f3cb1ac9735191a68836052477",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstApp",
+        {
+            "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstApp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507277619682,
+            "changeTime": 1507277619682,
+            "contentHash": "c942c96c2a3996d49c85b9e1b5485ca5931f61c5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstComponent",
+        {
+            "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstComponent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1507277683847,
+            "changeTime": 1507277683847,
+            "contentHash": "b086959bee10fb491dbcf6b0cbc30b11d77d8aaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstApp\\FirstApp.app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstApp\\FirstApp.app",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 79,
+            "modifiedTime": 1507277861957,
+            "changeTime": 1507277861957,
+            "contentHash": "4bec1dbd25f36d4aa8bb6e490026b75db2c25e14"
+        }
+    ],
+    [
+        "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstApp\\FirstApp.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstApp\\FirstApp.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1507277861951,
+            "changeTime": 1507277861951,
+            "contentHash": "5044ef0f63eea81dc06d836c016580a4a07effbe"
+        }
+    ],
+    [
+        "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstApp\\FirstApp.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstApp\\FirstApp.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1507277861977,
+            "changeTime": 1507277861977,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4"
+        }
+    ],
+    [
+        "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstApp\\FirstAppController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstApp\\FirstAppController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1507277861987,
+            "changeTime": 1507277861987,
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897"
+        }
+    ],
+    [
+        "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstApp\\FirstAppHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstApp\\FirstAppHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1507277861981,
+            "changeTime": 1507277861981,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d"
+        }
+    ],
+    [
+        "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstApp\\FirstAppRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstApp\\FirstAppRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 49,
+            "modifiedTime": 1507277861972,
+            "changeTime": 1507277861972,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732"
+        }
+    ],
+    [
+        "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstComponent\\FirstComponent.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstComponent\\FirstComponent.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 57,
+            "modifiedTime": 1507277862007,
+            "changeTime": 1507277862007,
+            "contentHash": "dbe7b081202d9a65ab502bd39b76d8540929a33e"
+        }
+    ],
+    [
+        "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstComponent\\FirstComponent.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstComponent\\FirstComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1507277862002,
+            "changeTime": 1507277862002,
+            "contentHash": "43c6ca14f7cd85b7b929d871194cb6292f131f8e"
+        }
+    ],
+    [
+        "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstComponent\\FirstComponent.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstComponent\\FirstComponent.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 9,
+            "modifiedTime": 1507277861967,
+            "changeTime": 1507277861967,
+            "contentHash": "690dd1ee4df0575d78499135bec93071e468c5a4"
+        }
+    ],
+    [
+        "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstComponent\\FirstComponentController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstComponent\\FirstComponentController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1507277861997,
+            "changeTime": 1507277861997,
+            "contentHash": "65072628efe5f0288eba365d51e9e7c918b02897"
+        }
+    ],
+    [
+        "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstComponent\\FirstComponentHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstComponent\\FirstComponentHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 44,
+            "modifiedTime": 1507277861992,
+            "changeTime": 1507277861992,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d"
+        }
+    ],
+    [
+        "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstComponent\\FirstComponentRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\gadoukonou\\project\\SalesforceDX\\geolocation\\force-app\\main\\default\\aura\\FirstComponent\\FirstComponentRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 49,
+            "modifiedTime": 1507277861962,
+            "changeTime": 1507277861962,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732"
         }
     ]
 ]
